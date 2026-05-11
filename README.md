@@ -22,8 +22,8 @@
 ## 🛡️ About Me
 
 ```yaml
-name:       Ammar
-location:   Jordan 🇯🇴
+name:       Allith Ahmad
+location:   Qatar
 role:       Cloud & AI Infrastructure Engineer
 languages:  Arabic (Native) · English (Professional) · German (B1)
 focus:
